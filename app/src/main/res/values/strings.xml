@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ComposeLab</string>
+    <string name="first_lay">Tap the lemon tree to select a lemon</string>
+    <string name="second_lay">Keep tapping the lemon to squeeze it</string>
+    <string name="third_lay">Tap the lemonade to drink it</string>
+    <string name="fourth_lay">Tap the empty glass to start again</string>
+    <string name="lemon_tree">Lemon tree</string>
+    <string name="lemon">Lemon</string>
+    <string name="glass_of_lemonade">Glass of lemonade</string>
+    <string name="empty_glass">Empty glass</string>
+
+
+
 </resources>
