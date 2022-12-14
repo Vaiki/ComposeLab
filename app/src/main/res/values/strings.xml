@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ComposeLab</string>
+    <string name="hero1">Hero1</string>
+    <string name="hero2">Hero2</string>
+    <string name="hero3">Hero 3</string>
+    <string name="hero4">Hero 4</string>
+    <string name="hero5">Hero 5</string>
+    <string name="hero6">Hero 6</string>
+    <string name="description1">"The Jetpack Hero "</string>
+    <string name="description2">Understands the absolutle truth</string>
+    <string name="description3">I\'m work as a warehouse manager</string>
+    <string name="description4">"I do everything on time "</string>
+    <string name="description5">I know the Compose</string>
+    <string name="description6">Harnesses the power of canary to develop bravely</string>
 </resources>
